@@ -1,0 +1,11 @@
+{
+  "name": "Service Stack Sample",
+  "type": "sample",
+  "tags": [
+    "dotnet",
+    "csharp",
+    "servicestack",
+    "web",
+    "aspnet-mvc"
+  ]
+}
