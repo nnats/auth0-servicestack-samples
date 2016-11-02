@@ -1,8 +1,12 @@
-Seed project using Auth0 and ServiceStack
+# Auth0 - ServiceStack
 
-https://docs.auth0.com/servicestack-tutorial
+[Full tutorial](https://auth0.com/docs/quickstart/webapp/servicestack)
 
-Register `http://localhost:6132/api/auth/auth0` as `Allowed callback URL`, run project and go to `http://localhost:6132/`.
+## Getting Started
+
+Rename `Web.config.example` to `Web.config` and provide the client ID, domain, and client secret for your app.
+
+Register `http://localhost:6132/api/auth/auth0` as an **Allowed Callback URL** in your [Auth0 dashboard](https://manage.auth0.com), run the project and go to `http://localhost:6132/`.
 
 ## Issue Reporting
 
