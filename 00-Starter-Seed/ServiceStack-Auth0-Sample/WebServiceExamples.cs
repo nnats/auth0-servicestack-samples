@@ -6,12 +6,6 @@ using System.Text;
 
 namespace ServiceStack_Auth0_Sample
 {
-    public class Settings
-    {
-        public string client_id { get; }
-        public string domain { get; }
-    }
-
     //Request DTO
     [Authenticate]
     public class Hello
