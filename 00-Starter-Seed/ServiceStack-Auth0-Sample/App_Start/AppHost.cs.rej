@@ -1,0 +1,10 @@
+diff a/00-Starter-Seed/ServiceStack-Auth0-Sample/App_Start/AppHost.cs b/00-Starter-Seed/ServiceStack-Auth0-Sample/App_Start/AppHost.cs	(rejected hunks)
+@@ -51,7 +51,7 @@
+             //});
+ 
+ 			//Enable Authentication
+-			ConfigureAuth(container);
++			//ConfigureAuth(container);
+ 
+ 			//Register all your dependencies
+ 			container.Register(new TodoRepository());			
